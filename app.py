@@ -19,6 +19,10 @@ def preprocess(text):
 
 @st.cache_resource
 def load_model():
+    if not os.path.exists(MODEL_PATH):
+        import subprocess, sys
+        train_script = os.path.join(os.path.dirname(__file__), "model", "train.py")
+        subprocess.run([sys.executable, train_script], check=True)
     return joblib.load(MODEL_PATH)
 
 
@@ -26,6 +30,11 @@ def load_metrics():
     with open(METRICS_PATH) as f:
         return json.load(f)
 
+
+# Auto-train on first load if model doesn't exist
+if not os.path.exists(MODEL_PATH):
+    with st.spinner("Training model on first launch..."):
+        load_model()
 
 # Sidebar
 st.sidebar.title("Model Info")
@@ -52,8 +61,6 @@ text_input = st.text_area("Enter text to classify:", height=120, placeholder="e.
 if st.button("Classify", type="primary"):
     if not text_input.strip():
         st.warning("Please enter some text.")
-    elif not os.path.exists(MODEL_PATH):
-        st.error("Model not found. Run `python model/train.py` first.")
     else:
         model = load_model()
         cleaned = preprocess(text_input)
