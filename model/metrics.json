@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.9421,
+  "cv_accuracy": 0.9292,
+  "best_classifier": "SGDClassifier",
+  "total_samples": 601,
+  "train_samples": 480,
+  "test_samples": 121,
+  "emergency_f1": 0.9431,
+  "non_emergency_f1": 0.9412
+}

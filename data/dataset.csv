@@ -1,0 +1,602 @@
+text,label
+"There's a fire in the building on 5th street, smoke everywhere",1
+"Someone just collapsed on the sidewalk and isn't breathing",1
+"I heard gunshots outside my apartment just now",1
+"A car just crashed into a tree and the driver is unconscious",1
+"There's a gas leak in my apartment I can smell it strongly",1
+"Someone broke into my house and they're still inside",1
+"A child fell into the swimming pool and can't swim",1
+"There's a massive fight happening outside the bar with weapons",1
+"My neighbor's house is on fire the flames are spreading fast",1
+"I think someone is having a heart attack at the mall",1
+"A person was just stabbed at the bus stop",1
+"There's a car on fire on the highway blocking all lanes",1
+"Someone is threatening people with a knife at the park",1
+"A tree just fell on a car with people inside",1
+"The river is flooding and water is entering our homes",1
+"A building just partially collapsed downtown",1
+"There's an active shooter at the school",1
+"A pedestrian was just hit by a car and is lying on the road",1
+"My baby is choking and turning blue please help",1
+"There's a chemical spill at the factory near the school",1
+"Someone is trapped in the elevator and having a panic attack",1
+"A power line just fell down and is sparking on the ground",1
+"I can see someone drowning in the lake",1
+"There's a violent robbery happening at the gas station right now",1
+"An elderly person fell down the stairs and can't move",1
+"A tornado was just spotted heading toward our neighborhood",1
+"There are flames coming from the roof of the restaurant",1
+"Someone is unconscious and bleeding on the train platform",1
+"A drunk driver just crashed through the storefront",1
+"I found an unresponsive person in the parking garage",1
+"Multiple cars just collided on the interstate",1
+"Someone is having a seizure at the grocery store",1
+"A man with a gun just entered the bank",1
+"My house is filling with smoke I think there's an electrical fire",1
+"A child is locked in a hot car in the parking lot",1
+"There's a bomb threat at the office building",1
+"Someone fell off the balcony from the third floor",1
+"The bridge is cracking and there are cars on it",1
+"A woman is screaming for help from inside the apartment",1
+"Carbon monoxide alarm is going off and my family feels dizzy",1
+"Major earthquake just hit everything is shaking violently",1
+"A truck overturned and is leaking fuel on the highway",1
+"Someone just got electrocuted by a downed wire",1
+"There's a landslide blocking the road with cars underneath",1
+"A person jumped into the river and hasn't come back up",1
+"My grandmother stopped breathing and she has no pulse",1
+"A wildfire is approaching our community we need evacuation",1
+"Someone is being assaulted in the alley behind the store",1
+"A gas explosion just happened at the apartment complex",1
+"There's heavy smoke coming from the warehouse district",1
+"A car just drove into a crowd of people at the market",1
+"I see a person lying face down in the street not moving",1
+"Armed robbery in progress at the jewelry store",1
+"Flash flooding has trapped cars on the underpass",1
+"A construction crane just collapsed onto the building",1
+"Someone is threatening to jump off the bridge",1
+"My child accidentally ingested cleaning chemicals",1
+"There's a multi-vehicle pileup on the freeway with injuries",1
+"A dog is viciously attacking someone in the park",1
+"I just witnessed a hit and run the victim is badly hurt",1
+"The apartment above us is flooding and the ceiling is caving in",1
+"An ambulance is needed immediately someone is in cardiac arrest",1
+"There's a hostage situation at the bank on Main Street",1
+"A train derailed near the residential area",1
+"Someone is being kidnapped they're being forced into a van",1
+"Severe allergic reaction my throat is swelling shut",1
+"A person was shot outside the nightclub",1
+"There's a sinkhole opening up in the middle of the road",1
+"Explosion heard at the refinery thick black smoke rising",1
+"A child went missing at the amusement park",1
+"My husband is having a stroke his face is drooping",1
+"The dam is about to break upstream",1
+"A bus full of passengers just went off the road into a ditch",1
+"Someone is pointing a gun at people in the parking lot",1
+"I smell gas very strongly in the basement it could explode",1
+"A person is trapped under the collapsed scaffolding",1
+"There's a high speed chase heading through the neighborhood",1
+"An infant is not breathing and is turning purple",1
+"The ferry is sinking and people are in the water",1
+"A home invasion is happening right now at my neighbor's house",1
+"Lightning struck the house and it caught fire",1
+"Someone overdosed and is barely conscious in the bathroom",1
+"A helicopter just crashed into the field near the highway",1
+"There's a man with a machete walking toward the school",1
+"Major gas main break the whole street smells like rotten eggs",1
+"A car is submerged in the canal with someone inside",1
+"Structural fire spreading to adjacent buildings downtown",1
+"A teenager was just pulled from the ocean and isn't breathing",1
+"Violent domestic dispute next door I can hear screaming and breaking glass",1
+"The ceiling collapsed in the restaurant with diners inside",1
+"Someone fell through the ice on the frozen lake",1
+"A plane just made an emergency landing on the highway",1
+"Active assault with a baseball bat at the transit station",1
+"My coworker just had a massive allergic reaction and can't breathe",1
+"A truck carrying hazardous materials overturned and is leaking",1
+"There's a person on the roof threatening to jump",1
+"Avalanche reported on the mountain pass with skiers trapped",1
+"A stabbing just occurred at the convenience store",1
+"Flash flood waters are rising rapidly around stranded vehicles",1
+"Someone set fire to the dumpster and it's spreading to the building",1
+"My neighbor just called screaming that someone is breaking in with a weapon",1
+"Worker fell from scaffolding at the construction site he's not moving",1
+"Forklift accident at the warehouse someone is pinned underneath",1
+"A machine malfunctioned at the factory and a worker's arm is trapped",1
+"Explosion at the grain silo people are running out injured",1
+"Boiler exploded in the basement of the office building",1
+"Someone got their hand caught in the conveyor belt at the plant",1
+"Industrial chemical leak workers are coughing and vomiting",1
+"The crane cable snapped and dropped a load onto the crew below",1
+"Welder started a fire in the factory it's spreading to stored materials",1
+"A pressurized tank just ruptured at the refinery workers are down",1
+"My dad is having chest pains and his left arm is numb",1
+"Someone is having trouble breathing and their lips are turning blue",1
+"A diabetic person just passed out and won't wake up",1
+"The patient is going into anaphylactic shock from a bee sting",1
+"A pregnant woman is bleeding heavily and in severe pain",1
+"Someone just had a grand mal seizure and hit their head on the concrete",1
+"My mom took too many pills I think she tried to hurt herself",1
+"A hiker collapsed on the trail with heat stroke not responsive",1
+"Someone is vomiting blood in the restaurant bathroom",1
+"An asthma attack and they can't find their inhaler turning blue",1
+"The old man fell and I can see bone sticking out of his leg",1
+"A child is running a 105 degree fever and having convulsions",1
+"Hurricane is making landfall now the roof just ripped off our house",1
+"Tsunami warning sirens are going off and water is already rising",1
+"Hailstones the size of baseballs are smashing through car windows",1
+"A waterspout just came onshore and is tearing through the marina",1
+"Blizzard conditions zero visibility and cars are piling up on the highway",1
+"Ice storm brought down power lines they're sparking across the road",1
+"Mudslide just hit the houses on the hillside people are trapped",1
+"Volcanic ash is falling and we can barely breathe outside",1
+"Lightning struck the transformer and the whole block is sparking",1
+"A dust storm has reduced visibility to zero and there's a massive pileup",1
+"Someone is being attacked in the parking garage I can hear them screaming",1
+"A group of men are beating someone unconscious outside the club",1
+"There's a man waving a gun around inside the restaurant",1
+"Someone just carjacked a woman at the intersection and drove off with her kid in the back",1
+"A store employee is being held at knifepoint during a robbery",1
+"I can hear someone being beaten in the apartment upstairs things are breaking",1
+"A road rage incident just escalated and someone pulled out a weapon",1
+"Two rival groups are fighting with bats and chains in the parking lot",1
+"Someone is following a woman and she's running and screaming for help",1
+"A man just grabbed a child off the playground and is running toward a van",1
+"Water main burst and the street is flooding rapidly cars are floating",1
+"A gas regulator failure the entire neighborhood smells like propane",1
+"The electrical transformer on the pole just exploded showering sparks",1
+"Steam pipe burst in the building people are getting burned",1
+"The fire escape on the building just collapsed with people on it",1
+"Sewage main broke and toxic waste is flooding into the school basement",1
+"High voltage equipment failure at the substation arc flash visible",1
+"A kayaker capsized in the rapids and hasn't surfaced",1
+"Someone got pulled out by the riptide they're being carried away",1
+"A boat capsized on the lake and I can see people struggling in the water",1
+"A surfer was attacked by a shark there's blood in the water",1
+"A child was swept away by the current in the creek",1
+"Ice fisherman fell through the ice and only his head is above water",1
+"A swimmer is caught in the undertow waving for help can't get back",1
+"fire!",1
+"help someone is dying",1
+"HELP",1
+"call 911 now",1
+"shooting happening right now",1
+"theres a fir in the bilding",1
+"somone is not bretahing",1
+"person stabed need amblance",1
+"car crash bad injuries pls help",1
+"yo someones getting jumped real bad out here",1
+"bruh theres a fire at the apartments",1
+"omg someone just got shot help",1
+"dude theres a huge wreck on the freeway people are hurt",1
+"bro my friend isnt breathing what do i do",1
+"my kid just drank bleach oh my god",1
+"thers smoke everwhere cant see",1
+"pls help my house is on fier",1
+"car fliped over on highway people trapped",1
+"man with gun at school send police now",1
+"blood everywhere someone needs help fast",1
+"building on fire people stuck inside",1
+"send ambulance heart attack happening",1
+"someone fell not moving please hurry",1
+"huge explosion just happened everything shaking",1
+"woman being attacked in parking lot right now",1
+"kid choking cant breathe need paramedics",1
+"armed men inside the store hostages",1
+"massive pile up injuries everywhere send help",1
+"flood water rising fast people on rooftops",1
+"tornado touched down houses destroyed people trapped",1
+"person electrocuted by power line not moving send help now",1
+"The streetlight is out but everything else is fine just letting you know",0
+"My neighbor plays loud music every weekend it's really annoying",0
+"There's a pothole on Elm Street that needs to be fixed",0
+"I'd like to report some graffiti on the wall behind the library",0
+"My cat has been missing for two days can you help",0
+"Someone keeps parking in front of my driveway",0
+"The trash hasn't been collected on our street this week",0
+"I want to file a noise complaint about the construction next door",0
+"There's a broken bench in the park that could use repair",0
+"Can I get a copy of a police report from last month",0
+"I need to renew my parking permit",0
+"The stop sign at the corner is bent and hard to see",0
+"My mail keeps getting delivered to the wrong address",0
+"I'd like to report a barking dog in my neighborhood",0
+"There's a shopping cart abandoned in the middle of the sidewalk",0
+"How do I apply for a building permit in this county",0
+"Someone left their car unlocked in the parking lot overnight",0
+"The park sprinklers are running during the rain seems wasteful",0
+"I want to know the hours for the DMV office downtown",0
+"There's a fallen tree branch in my yard from the wind",0
+"Can you tell me where the nearest recycling center is",0
+"My neighbor's fence is encroaching on my property line",0
+"I'd like to schedule a ride-along with an officer",0
+"The crosswalk signal at Main and Broadway isn't working right",0
+"Someone dumped old furniture on the curb illegally",0
+"I want to report a minor fender bender no injuries",0
+"There's a stray cat hanging around the neighborhood",0
+"The library book drop is overflowing",0
+"Can I get fingerprinted for a background check at the station",0
+"My lawn was damaged by the city snowplow last winter",0
+"I need information about local community watch programs",0
+"There's a raccoon in my garbage cans every night",0
+"The speed bump on our street is too aggressive",0
+"I want to report some suspicious but non-threatening door to door sales",0
+"A streetlight has been flickering for the past week",0
+"My package was stolen from my porch sometime today",0
+"The city pool has algae growing in it looks gross",0
+"I'd like to know about volunteer opportunities with the fire department",0
+"Someone keeps letting their dog off leash at the park",0
+"The bus stop bench is covered in bird droppings",0
+"Can I get a permit for a block party next month",0
+"There's a dead bird on the sidewalk near the school",0
+"My car was keyed in the parking lot sometime last night",0
+"The public restroom at the park is out of order",0
+"I want to request extra patrol on our street at night",0
+"There's a wasp nest forming under the bus shelter",0
+"The bike lane on Oak Avenue has debris in it",0
+"Can you recommend a good locksmith I locked myself out",0
+"Someone tagged the underpass with spray paint again",0
+"The playground equipment at Central Park is rusty and old",0
+"I want to report a lost wallet I dropped somewhere downtown",0
+"There's a car alarm that's been going off for an hour",0
+"My neighbor's tree is dropping leaves all over my yard",0
+"The community bulletin board at the post office is full",0
+"I need to update my address on my driver's license",0
+"There's a coyote that walks through our neighborhood at dawn",0
+"The handicap ramp at City Hall needs to be repainted",0
+"Can I reserve the community center for a birthday party",0
+"My lawn mower was stolen from my shed last weekend",0
+"The fire hydrant on our block is leaking a little water",0
+"I want to know about after school programs for kids",0
+"There's an abandoned bicycle chained to the fence at the park",0
+"The ice cream truck plays music way too loud",0
+"Someone keeps putting flyers on my car windshield",0
+"The public wifi at the library is really slow today",0
+"I need a vacation hold on my mail for next week",0
+"There's a skunk living under my deck",0
+"The traffic light at 3rd and Pine takes way too long to change",0
+"Can I get a tour of the fire station for my kid's birthday",0
+"My neighbor's holiday decorations are still up in March",0
+"The sidewalk in front of the school is cracked and uneven",0
+"I want to report a zoning violation my neighbor built a shed too close to the property line",0
+"There's a group of teenagers skateboarding in the empty lot",0
+"The newspaper box on the corner is damaged",0
+"Can I file a complaint about a taxi driver who was rude",0
+"My internet has been spotty I think the utility line is damaged",0
+"The community garden plots need to be reassigned for spring",0
+"There's a mattress dumped on the side of the road",0
+"I'd like to report my bicycle as stolen it was taken from the rack",0
+"The vending machine at the recreation center ate my dollar",0
+"Someone keeps leaving dog waste bags on the trail",0
+"The flag at the post office is torn and needs replacing",0
+"I want information about getting a concealed carry permit",0
+"There's moss growing on the north side of the overpass",0
+"My neighbor's rooster crows every morning at 5am",0
+"The paint is peeling on the guardrail along Route 9",0
+"Can I use the police station parking lot for overflow during the festival",0
+"There's a loose manhole cover on Second Street be careful",0
+"I just moved here and want to know about trash pickup days",0
+"The swing set chains at Riverside Park are getting rusty",0
+"Someone wrote something rude on the bathroom wall at the park",0
+"My kids found a turtle in the backyard what should we do",0
+"The no parking sign on our street fell over in the wind",0
+"I'd like to donate some old books to the community center",0
+"There's a puddle that forms every time it rains at the intersection",0
+"Can I get a replacement recycling bin mine is cracked",0
+"The basketball hoop at the park is bent",0
+"My neighbor is having a loud party but it's not that late yet",0
+"I accidentally backed into my own mailbox need to know the rules for replacing it",0
+"The bridge over the creek has some loose boards",0
+"There's a crow that keeps pecking at my window every morning",0
+"I want to know if there are any road closures this weekend",0
+"The water fountain at the dog park is not working",0
+"Someone left a sofa at the bus stop",0
+"I need to pay an old parking ticket how do I do that",0
+"The flowers in the median strip are all dead",0
+"Can I get a copy of the city noise ordinance",0
+"There's a for sale sign that blew into the road",0
+"The HOA meeting is next Tuesday and I'd like to add an agenda item",0
+"My neighbor's sprinklers are watering the sidewalk instead of their lawn",0
+"Can I get a variance to build a deck closer to the property line",0
+"The HOA won't let me paint my door a different color",0
+"I need to dispute a parking ticket I got last week",0
+"The community pool hours should be extended for the summer",0
+"My neighbor's hedge is overgrown and blocking the sidewalk",0
+"Is there a farmers market in town this weekend",0
+"The school zone flashers on Oak Street aren't turning on in the morning",0
+"I want to complain about the new stop sign it causes more traffic",0
+"Can I get a dog license for my new puppy",0
+"The dumpster behind the restaurant is overflowing and smells terrible",0
+"I'd like to organize a neighborhood cleanup day",0
+"There are geese blocking the path at the pond every morning",0
+"My neighbor runs a business from home and there's too much traffic",0
+"The park bathrooms close too early in the evening",0
+"I need to schedule a bulk trash pickup for old furniture",0
+"The crosswalk paint is faded at the school crossing",0
+"Can I register for the city's emergency alert system",0
+"The storm drain on our street is clogged with leaves",0
+"I'd like to request a speed limit change on our residential street",0
+"There was a fire at the warehouse last week but it's been handled already",0
+"I saw a minor accident yesterday but everyone was okay and drove away",0
+"A tree fell in the park last night nobody was around",0
+"Someone's car alarm went off earlier but it stopped",0
+"I think there might have been a break-in at the empty house but I'm not sure it was a while ago",0
+"The neighbors had a big argument last night but it's quiet now",0
+"I noticed some broken glass near the playground might want to clean it up",0
+"There was a small kitchen fire at my place last month just wanted to report it for records",0
+"A pipe burst in our building yesterday but maintenance already fixed it",0
+"I found some abandoned fireworks in the park probably from the holiday",0
+"Someone sideswiped my parked car but no one was hurt",0
+"There's an old car that's been parked on our street for months doesn't seem to run",0
+"The smoke detector in the hallway keeps going off but there's no fire just needs a new battery",0
+"I heard what sounded like firecrackers last night but I think it was just kids",0
+"A sign fell over in the wind at the intersection",0
+"noise complaint",0
+"pothole",0
+"parking issue",0
+"barking dog",0
+"lost cat",0
+"trash pickup question",0
+"broken streetlight",0
+"graffiti on the fence",0
+"can I get a permit",0
+"what are your hours",0
+"where is the nearest station",0
+"how do I pay a fine",0
+"my fence needs repair whose responsibility",0
+"is there a curfew",0
+"when is the next city council meeting",0
+"The gate to the community pool won't lock properly",0
+"I want to report an abandoned shopping cart on my property",0
+"The road reflectors on Highway 7 are missing in several spots",0
+"My neighbor's wind chimes are extremely loud",0
+"There's a beehive forming on the public telephone pole",0
+"The baseball field at Memorial Park needs new bases",0
+"Can I volunteer to help with the annual charity run",0
+"The city website has incorrect information about recycling day",0
+"I'd like to appeal a code violation I received",0
+"Someone spray painted over the community mural",0
+"The public drinking fountain near the tennis courts tastes rusty",0
+"My neighbor keeps blowing leaves into my yard",0
+"There's a broken bottle in the sand at the beach volleyball court",0
+"The handicap parking spaces at the library aren't clearly marked",0
+"I need to know the regulations for backyard chickens in our town",0
+"The fence around the construction site on 4th Ave has a gap kids keep going through",0
+"Can I host a garage sale this weekend what permits do I need",0
+"The fire station siren test was louder than usual today",0
+"My property tax assessment seems too high who do I contact",0
+"There are too many food trucks parking on residential streets",0
+"The trail near the creek is washed out from the last rain",0
+"I'd like to suggest adding a bike rack at the community center",0
+"The LED billboard on Route 1 is too bright at night",0
+"My neighbor's security camera is pointed at my backyard",0
+"The bus route 12 schedule changed and nobody was notified",0
+"Can I get a refund for the canceled recreation class",0
+"There's a shopping cart in the creek behind the strip mall",0
+"The park benches near the gazebo need to be repainted",0
+"I want to report a business that's operating without a visible permit",0
+"The street sweeper keeps missing our block",0
+"My neighbor feeds stray cats and they congregate on my porch",0
+"The pedestrian bridge over the freeway has some rust spots",0
+"I'd like to know about senior citizen discount programs in town",0
+"There's an old mattress leaning against the fire hydrant",0
+"The reading room at the library gets too cold in winter",0
+"Can I rent the pavilion at Lakeside Park for a reunion",0
+"The stop lines at the four-way intersection need repainting",0
+"My neighbor put up a really tall fence and now my garden doesn't get sun",0
+"The boat ramp at the reservoir is crumbling on one side",0
+"I want to know if the splash pad will be open this summer",0
+"A factory worker was crushed between two machines he's screaming",1
+"The roof of the mall is sagging and cracking people are still inside",1
+"Someone poured gasoline around the building and lit it on fire",1
+"A school bus just rolled over on the highway kids are inside",1
+"There's a man having a psychotic episode attacking random people on the street",1
+"Ammonia leak at the ice rink people are choking and evacuating",1
+"A pregnant woman fell down the stairs and is bleeding badly",1
+"Someone drove a car into the front of the daycare center",1
+"An oil tanker is on fire at the port thick smoke covering the area",1
+"A rock climber fell about 40 feet and is not responding",1
+"Multiple people just collapsed at the concert could be an overdose",1
+"The retaining wall collapsed onto the road crushing a parked car with someone in it",1
+"A worker was impaled by rebar at the construction site",1
+"Gas is spraying from a broken pipe in the parking structure",1
+"Someone threw acid at a person outside the subway station",1
+"The escalator at the mall just collapsed people fell through",1
+"A cement truck tipped over on the construction workers below",1
+"There's an unattended bag smoking and making noise at the train station",1
+"Someone is shooting from the apartment window at people below",1
+"A child was bitten by a snake and is swelling up rapidly",1
+"The nursing home is on fire and residents can't evacuate on their own",1
+"A motorcyclist was thrown off the overpass onto the road below",1
+"Chlorine gas leak at the pool facility people are having trouble breathing",1
+"Someone is trapped in their car in a flooded underpass water is rising fast",1
+"A roller coaster stopped mid-loop and people are stuck upside down",1
+"The grain elevator exploded dust and debris everywhere workers missing",1
+"A logging truck lost its load on the highway crushing the car behind it",1
+"Someone collapsed during the marathon and has no pulse",1
+"A bear is attacking a hiker on the trail",1
+"Electrical fire in the server room of the hospital spreading to patient ward",1
+"The ski lift cable snapped and chairs are falling with people in them",1
+"A backhoe hit a gas line and there's a massive leak with open flame nearby",1
+"Someone is being dragged by a car down the street",1
+"A toddler fell into an open manhole",1
+"The pier collapsed and dozens of people fell into the water",1
+"A hang glider crashed into the cliff face pilot is dangling unconscious",1
+"Propane tank explosion at the campground tents on fire people screaming",1
+"A pedestrian bridge collapsed while people were walking across it",1
+"Someone is stuck on the train tracks and a train is coming",1
+"A chemical plant alarm is going off and a toxic cloud is moving toward town",1
+"The parking garage structure is failing concrete falling on cars below",1
+"My roommate locked themselves in the bathroom threatening self harm with a razor",1
+"A sailboat capsized in the storm three people in the water no life jackets",1
+"Someone set themselves on fire in the town square",1
+"Heavy machinery rolled over on the operator at the quarry",1
+"A silo is collapsing on the farm workers were inside",1
+"The amusement park ride broke mid-spin and a seat flew off with a rider",1
+"A tanker truck is leaking unknown chemicals on a residential street fumes spreading",1
+"Multiple stabbings reported at the outdoor festival",1
+"An elevator cable snapped and it fell several floors with people inside",1
+"A pipeline ruptured and crude oil is flooding into the neighborhood",1
+"Someone is being strangled outside the convenience store right now",1
+"The hotel balcony just broke off and fell onto people below",1
+"A snowplow slid off the mountain road and went over the cliff",1
+"Person pinned between a bus and a wall at the transit center",1
+"A barge is sinking in the shipping channel crew abandoning ship",1
+"Three people just got struck by lightning at the golf course",1
+"The swimming pool drain has trapped a child underwater",1
+"A crop duster plane just nose-dived into the field near houses",1
+"Someone drove through the farmers market tent people are injured",1
+"There's a wildfire spot fire that just jumped the containment line heading toward homes",1
+"A window washer's scaffold broke and he's hanging by one cable 20 stories up",1
+"I'd like to request a new street sign for our cul-de-sac",0
+"The picnic tables at the pavilion need to be replaced",0
+"Can I get the city to plant a tree on my boulevard strip",0
+"My neighbor's RV has been parked on the street for three months",0
+"There's a gopher tearing up the baseball field at the park",0
+"The automatic doors at City Hall aren't working properly",0
+"I want to know about the city's composting program",0
+"Someone keeps stealing the community newspaper from our box",0
+"The guardrail on Maple Drive has reflectors missing",0
+"Can I get a list of registered sex offenders in my area",0
+"The tennis court nets at the park are sagging",0
+"My neighbor's outdoor cats keep using my garden as a litter box",0
+"The walking path around the reservoir needs to be re-graveled",0
+"I'd like to report a business with an expired license",0
+"The memorial plaque at Veterans Park has graffiti on it",0
+"Can I get a resident parking sticker for my new vehicle",0
+"The drainage ditch behind our property needs to be cleared out",0
+"My neighbor installed a basketball hoop that hangs over the sidewalk",0
+"I want to know about the city's leaf collection schedule",0
+"The playground at Sunset Park doesn't have any shade structures",0
+"Can I get permission to put up a lemonade stand on the corner",0
+"The fire lane markings in our shopping center parking lot are faded",0
+"My neighbor runs power tools at 6am every Saturday",0
+"There's a bee swarm hanging from the tree at the bus stop",0
+"The public art installation on Main Street needs cleaning",0
+"I want to file a complaint about a food truck that left trash everywhere",0
+"The handicap button at the library entrance is broken",0
+"My neighbor's gutters are draining directly onto my property",0
+"Can I get information about the town's historical district requirements",0
+"The soccer field goals at the community park are rusty and leaning",0
+"Someone keeps removing the community garden's fence posts",0
+"The public telescope at the observatory hasn't been cleaned in ages",0
+"I want to suggest a new location for a dog waste station in the park",0
+"There's a pothole at the entrance to the school parking lot",0
+"My upstairs neighbor's pipes are noisy but nothing is leaking",0
+"The clock tower downtown has been showing the wrong time for weeks",0
+"Can I get a noise variance for a wedding reception in my backyard",0
+"The wooden boardwalk at the nature preserve has some loose planks",0
+"My neighbor's kids keep kicking their ball into my yard",0
+"The recycling center doesn't accept electronics where can I take mine",0
+"The town fountain hasn't been turned on for the season yet",0
+"I noticed the city flag at the fire station is upside down",0
+"Can I reserve a camping spot at the municipal campground",0
+"The newspaper vending machine on 5th Ave is jammed",0
+"My neighbor's chickens keep escaping into my yard",0
+"There's algae on the walking trail around the pond making it slippery",0
+"I want to know about permit requirements for a home addition",0
+"The drinking water has tasted funny lately but nobody's sick",0
+"Can I get a bulk discount on mulch from the city yard waste facility",0
+"The memorial bench I donated to the park needs a new plaque",0
+"My neighbor is storing junk cars in their backyard",0
+"There were some fireworks in the neighborhood last weekend after the holiday",0
+"I saw a small fender bender at the intersection the other day but both drivers exchanged info and left",0
+"There was a power outage on our street yesterday but it came back after an hour",0
+"I think someone went through my recycling bin last night looking for cans",0
+"A tree branch fell in the empty parking lot during the storm no damage",0
+"I found some old spray cans by the trail probably from graffiti last month",0
+"My neighbor mentioned their smoke alarm beeped once probably just the battery",0
+"There was a small water leak in the bathroom but my landlord already fixed it",0
+"I heard a loud boom last night but it turned out to be transformer blowing power's back now",0
+"A car was broken into on our street last week the police already came",0
+"noise",0
+"parking",0
+"my fence",0
+"stray animal",0
+"when does the pool open",0
+"how do I get a permit",0
+"property line question",0
+"trash not picked up",0
+"streetlight out",0
+"road work schedule",0
+"where to recycle batteries",0
+"dog barking at night",0
+"neighbor dispute",0
+"graffiti removal request",0
+"emergency someone is hurt badly please come quick",1
+"need help now there's been an accident with injuries",1
+"urgent situation a building is collapsing on people",1
+"please send fire trucks everything is burning",1
+"911 someone is being attacked with a weapon right now",1
+"medical emergency diabetic coma unresponsive",1
+"active violence situation at the community center armed individual",1
+"major structure failure people are trapped under rubble",1
+"toxic fumes spreading through the apartment complex people passing out",1
+"a semi truck jackknifed on the bridge crushing multiple vehicles",1
+"someone is drowning in the community pool nobody else is around",1
+"a gunman just entered the church during service",1
+"my father is having a diabetic emergency and lost consciousness",1
+"a drunk driver is going the wrong way on the expressway",1
+"mass casualty incident at the stadium people are being crushed",1
+"someone threw a molotov cocktail at the apartment building",1
+"the levee broke and water is rushing into the town",1
+"a skydiver's parachute failed they crashed near the airfield",1
+"inmates are rioting at the county jail guards need help",1
+"a child fell from the second floor window onto the concrete",1
+"oil rig explosion in the bay workers in the water",1
+"someone shot at the school bus with children inside",1
+"a runaway horse trampled several people at the parade",1
+"the mine shaft collapsed with workers underground",1
+"a tractor trailer is on fire blocking the tunnel with traffic inside",1
+"nuclear plant alarm sounding evacuation needed",1
+"my sister just went into labor and the baby is coming right now she can't move",1
+"there's a massive sinkhole swallowing cars on the main road right now",1
+"someone was just pushed onto the subway tracks and a train is approaching",1
+"a crane at the port dropped a shipping container onto workers",1
+"an ultralight aircraft crashed into a residential backyard",1
+"someone is being held at gunpoint in their car at the drive through",1
+"a water tower is leaning and about to collapse onto houses below",1
+"the basement is flooding with sewage and my elderly mother is trapped down there",1
+"there's a standoff with police and an armed person in the neighborhood",1
+"a zoo animal escaped and is loose in the surrounding neighborhood people are in danger",1
+"someone was just struck by a hit and run driver at the crosswalk and isn't moving",1
+"the roof of the ice rink just caved in during a hockey game",1
+"a freight train derailed and tank cars are leaking chemicals near homes",1
+"massive rockslide on the mountain highway cars buried under boulders",1
+"someone is trapped in a burning vehicle they can't get the door open",1
+"a child wandered onto the highway and cars are swerving",1
+"a natural gas explosion just leveled a house next door our windows blew in",1
+"the river dam just broke catastrophic flooding downstream homes in the path",1
+"someone collapsed at the gym during exercise no pulse CPR in progress",1
+"a knife-wielding person just slashed multiple people at the bus terminal",1
+"the carnival ferris wheel is stuck and tilting dangerously with riders on it",1
+"a fishing boat is sinking in the harbor the crew is jumping into the water",1
+"someone drove through the school zone at high speed and hit a crossing guard",1
+"the tree on fire is dropping embers onto neighboring rooftops spreading",1
+"The town is considering a new dog park on the vacant lot on 7th Ave",0
+"I want to find out about volunteer crossing guard positions at the school",0
+"My neighbor's satellite dish fell and is sitting in the alley not blocking anything",0
+"The cemetery grounds crew left equipment out over the weekend",0
+"Can I get a reduced rate on my water bill for filling a pool",0
+"The community theater needs better parking lot lighting",0
+"I'd like to know about the city's tree planting program for homeowners",0
+"The donation bin behind the thrift store is overflowing with bags",0
+"My neighbor's trampoline blew into my yard during the wind nobody was on it",0
+"The speed display sign on residential road isn't working",0
+"Can I pay my utility bill online instead of mailing a check",0
+"There's a family of ducks nesting near the storm drain",0
+"The outdoor basketball courts need to be resurfaced",0
+"I want to know the schedule for city council public comment sessions",0
+"The curb paint at the school drop-off zone is chipped",0
+"My neighbor's motion sensor light shines into my bedroom all night",0
+"Can I use the city dump on weekends",0
+"There's a large puddle forming in the alley after every rain",0
+"The city should consider adding a roundabout at the five-way intersection",0
+"I found a wallet on the ground at the park and want to turn it in",0
+"The gazebo at the botanical garden has a broken railing",0
+"My neighbor's above-ground pool is leaking onto my lawn slowly",0
+"Can I get a temporary no-parking sign for moving day",0
+"The bird feeders at the nature center are empty",0
+"I'd like to suggest the library extend evening hours on weekdays",0
+"There's a shopping bag stuck in the tree at the park entrance",0
+"The city's online permit portal keeps timing out",0
